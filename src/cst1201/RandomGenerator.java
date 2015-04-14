@@ -39,7 +39,7 @@ public class RandomGenerator {
         System.out.println("The max is: " + max);
         System.out.println("The min is: " + min);
         System.out.println("The count is: " + count);
-        System.out.println("Thesum is: " + sum);
+        System.out.println("The sum is: " + sum);
 
         }
     }}
